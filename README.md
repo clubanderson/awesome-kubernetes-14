@@ -790,6 +790,7 @@ Projects
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered open-source web console for managing workloads across multiple Kubernetes clusters with 150+ dashboard cards, AI chat agent, and MCP bridge
 
 ## Desktop applications
 
